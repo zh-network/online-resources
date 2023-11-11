@@ -12,6 +12,9 @@
 #LAX-US
 174.136.238.0/24,US,US-CA,Los Angeles,
 2a12:3fc2:3000::/36,US,US-CA,Los Angeles,
+#CA-ON
+154.61.161.0/24,CA,CA-ON,Ontario,
+2a0f:7800:b00::/40,CA,CA-ON,Ontario,
 #HK
 #SJC-US
 185.139.35.0/24,US,US-CA,San Jose,
